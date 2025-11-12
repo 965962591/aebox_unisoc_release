@@ -31,6 +31,14 @@
 
 ### 主界面
 ![1](main.jpg)
+
+
+#### 模拟计算
+![1](cal.jpg)
+
+
+#### 批量计算
+![1](batch_sim.jpg)
 ##### 使用指南
 - 首先设置iqt.exe路径，使用vivi magic工具版本必须高于3603   路径举例：D:\tuning\ViviMagic_TOOL_V1.0_3903\plugins\3aTool
 - 设置测试图片文件路径（批量查看和解析图片）
