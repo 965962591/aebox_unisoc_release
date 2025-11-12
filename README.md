@@ -26,7 +26,7 @@
 </div>
 
 # 下载请查看最新的release
-> https://github.com/965962591/aebox_unisoc_releases/releases
+>[ https://github.com/965962591/aebox_unisoc_releases/releases](https://github.com/965962591/aebox_unisoc_release/releases)
 
 
 ### 主界面
