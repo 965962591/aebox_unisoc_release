@@ -28,6 +28,11 @@
 # 下载请查看最新的release
 >[ https://github.com/965962591/aebox_unisoc_releases/releases](https://github.com/965962591/aebox_unisoc_release/releases)
 
+#### 最近重要更新
+1. 多通道参数提取/修改/切换功能
+
+![截图](muilt_params.jpg)
+
 
 ### 主界面
 ![1](main.jpg)
